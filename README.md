@@ -17,6 +17,7 @@ i'm very fond of cybersecurity, front-end development, unix tinkering, rabbits a
   <img alt="Static Badge" src="https://img.shields.io/badge/Vue.js-%23282828?style=for-the-badge&logo=vuedotjs&logoColor=%23282828&logoSize=auto&labelColor=%238ec07c">
   <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-%23282828?style=for-the-badge&logo=nodedotjs&logoColor=%23282828&logoSize=auto&labelColor=%23b8bb26">
   <img alt="Static Badge" src="https://img.shields.io/badge/Vite-%23282828?style=for-the-badge&logo=vite&logoColor=%23282828&logoSize=auto&labelColor=%23d3869b">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Bun-%23282828?style=for-the-badge&logo=bun&logoColor=%23282828&logoSize=auto&labelColor=%23ebdbb2">
   <img alt="Static Badge" src="https://img.shields.io/badge/NPM-%23282828?style=for-the-badge&logo=npm&logoColor=%23282828&logoSize=auto&labelColor=%23fb4934">
   <img alt="Static Badge" src="https://img.shields.io/badge/Flask-%23282828?style=for-the-badge&logo=flask&logoColor=%23282828&logoSize=auto&labelColor=%23ebdbb2">
   <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind%20CSS-%23282828?style=for-the-badge&logo=tailwindcss&logoColor=%23282828&logoSize=auto&labelColor=%2383a598">
