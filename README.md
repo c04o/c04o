@@ -2,14 +2,14 @@
   hewo 👋 i'm c04o
 </h2>
 
-i'm very fond of cybersecurity, front-end Development, unix tinkering, rabbits and trans rights
+i'm very fond of cybersecurity, front-end development, unix tinkering, rabbits and trans rights
 
 <h2 align="left">
-  Tech Stack
+  tech stack
 </h2>
 
 <h3 align="center">
-  Workflow
+  workflow
 </h2>
 
 <div align="center">
