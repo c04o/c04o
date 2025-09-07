@@ -14,8 +14,11 @@ i'm very fond of cybersecurity, front-end development, unix tinkering, rabbits a
 
 <div align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/Svelte-%23282828?style=for-the-badge&logo=svelte&logoColor=%23282828&logoSize=auto&labelColor=%23fe8019">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Vue.js-%23282828?style=for-the-badge&logo=vuedotjs&logoColor=%23282828&logoSize=auto&labelColor=%238ec07c">
   <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-%23282828?style=for-the-badge&logo=nodedotjs&logoColor=%23282828&logoSize=auto&labelColor=%23b8bb26">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Flask-%23282828?style=for-the-badge&logo=flask&logoColor=%23282828&logoSize=auto&labelColor=%23ebdbb2">
   <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind%20CSS-%23282828?style=for-the-badge&logo=tailwindcss&logoColor=%23282828&logoSize=auto&labelColor=%2383a598">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-%23282828?style=for-the-badge&logo=bootstrap&logoColor=%23282828&logoSize=auto&labelColor=%23d3869b">
 </div>
 
 
