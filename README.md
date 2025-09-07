@@ -10,7 +10,7 @@ i'm very fond of cybersecurity, front-end development, unix tinkering, rabbits a
 
 <h3 align="center">
   web dev
-</h2>
+</h3>
 
 <div align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/Svelte-%23282828?style=for-the-badge&logo=svelte&logoColor=%23282828&logoSize=auto&labelColor=%23fe8019">
@@ -27,7 +27,7 @@ i'm very fond of cybersecurity, front-end development, unix tinkering, rabbits a
 
 <h3 align="center">
   workflow
-</h2>
+</h3>
 
 <div align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/Arch%20Linux-%23282828?style=for-the-badge&logo=archlinux&logoColor=%23282828&logoSize=auto&labelColor=83a598">
