@@ -2,9 +2,9 @@
 
 i'm very fond of Cybersecurity, Front-end Development, Linux tinkering and trans rights
 
-## Tech Stack
+# Tech Stack
 
-### Workflow
+## Workflow
 
 <!--
 **c04o/c04o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
