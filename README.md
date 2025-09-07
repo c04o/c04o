@@ -34,6 +34,7 @@ i'm very fond of cybersecurity, front-end development, unix tinkering, rabbits a
   <img alt="Static Badge" src="https://img.shields.io/badge/Hyprland-%23282828?style=for-the-badge&logo=hyprland&logoColor=%23282828&logoSize=auto&labelColor=83a598">
   <img alt="Static Badge" src="https://img.shields.io/badge/LazyVim-%23282828?style=for-the-badge&logo=lazyvim&logoColor=%23282828&logoSize=auto&labelColor=%2383a598">
   <img alt="Static Badge" src="https://img.shields.io/badge/Fish%20Shell-%23282828?style=for-the-badge&logo=fishshell&logoColor=%23282828&logoSize=auto&labelColor=%23b8bb26">
+  <img alt="Static Badge" src="https://img.shields.io/badge/LaTeX-%23282828?style=for-the-badge&logo=latex&logoColor=%23282828&logoSize=auto&labelColor=%238ec07c&color=%23282828">
   <img alt="Static Badge" src="https://img.shields.io/badge/Obsidian-%23282828?style=for-the-badge&logo=obsidian&logoColor=%23282828&logoSize=auto&labelColor=%23d3869b">
   <img alt="Static Badge" src="https://img.shields.io/badge/Aseprite-%23282828?style=for-the-badge&logo=aseprite&logoColor=%23282828&logoSize=auto&labelColor=%23ebdbb2">
   <img alt="Static Badge" src="https://img.shields.io/badge/Gimp-%23282828?style=for-the-badge&logo=gimp&logoColor=%23282828&logoSize=auto&labelColor=%23ebdbb2">
