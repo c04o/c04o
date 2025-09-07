@@ -4,9 +4,13 @@
 
 i'm very fond of Cybersecurity, Front-end Development, Linux tinkering, rabbits and trans rights
 
-# Tech Stack
+<h2 align="center">
+  Tech Stack
+</h2>
 
-## Workflow
+<h2 align="left">
+  Workflow
+</h2>
 
 <div align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/Arch%20Linux-%23282828?style=for-the-badge&logo=archlinux&logoColor=%23282828&logoSize=auto&labelColor=83a598">
