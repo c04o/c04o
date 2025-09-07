@@ -14,4 +14,5 @@ i'm very fond of Cybersecurity, Front-end Development, Linux tinkering, rabbits 
   <img alt="Static Badge" src="https://img.shields.io/badge/Neovim-%23282828?style=for-the-badge&logo=neovim&logoColor=%23282828&logoSize=auto&labelColor=%23b8bb26">
   <img alt="Static Badge" src="https://img.shields.io/badge/Fish%20Shell-%23282828?style=for-the-badge&logo=fishshell&logoColor=%23282828&logoSize=auto&labelColor=%23b8bb26">
   <img alt="Static Badge" src="https://img.shields.io/badge/Wayland-%23282828?style=for-the-badge&logo=wayland&logoColor=%23282828&logoSize=auto&labelColor=%23fabd2f">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Proton-%23282828?style=for-the-badge&logo=proton&logoColor=%23282828&logoSize=auto&labelColor=%23d3869b">
 </div>
