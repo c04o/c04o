@@ -1,5 +1,5 @@
 <h2 align="left">
-  hewo 👋 i'm c04o
+  hewo 😼 i'm c04o
 </h2>
 
 i'm very fond of cybersecurity, front-end development, unix tinkering, rabbits and trans rights
